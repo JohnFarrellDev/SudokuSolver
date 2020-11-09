@@ -4,7 +4,7 @@ A program that can solve any valid unfinished Sudoku.
 
 Coming soon to your browser at: https://www.johnfarrell.dev/
 
-
+![Recording of sudoku solver program](recordings/sudoku-solver.gif)
 
 # Instructions
 
